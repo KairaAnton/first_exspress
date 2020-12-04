@@ -1,0 +1,8 @@
+POST http://localhost:5000/forum/post12345
+Content-Type: application/json
+
+{
+    "email": "chtoto@tam.com",
+    "text": "mxcnbvskdfjh;lasz kjfnbos ;dgwefghwepro werghiwdfsvkdn weriguhe wpieugh",
+    "date": "2020-12-03"
+}

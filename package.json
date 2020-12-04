@@ -1,0 +1,20 @@
+{
+  "name": "first_node_server",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start":"node server.js",
+    "devstart": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yup": "^0.32.1"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
